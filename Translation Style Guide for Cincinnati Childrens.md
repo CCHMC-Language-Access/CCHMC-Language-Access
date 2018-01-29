@@ -1,6 +1,7 @@
-% DRAFT Cincinnati Children's Translation Style Guide
-%
-% 2018-01-26
+Cincinnati Children's Translation Style Guide
+=============================================
+
+2018-01-26
 
 [Download as PDF](/CCHMC_Style_Guide.pdf)
 
